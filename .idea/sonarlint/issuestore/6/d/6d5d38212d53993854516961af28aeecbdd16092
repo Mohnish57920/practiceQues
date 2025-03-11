@@ -1,0 +1,41 @@
+
+U
+java:S1854B"8Remove this useless assignment to local variable "sum1".(ñş™˜8¿ïäÏŞ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í †ï8ÅïäÏŞ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ÅïäÏŞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÆïäÏŞ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™ĞˆŠ8ÆïäÏŞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±–†¿ùÿÿÿÿ8ÇïäÏŞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÇïäÏŞ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùå„í8ÈïäÏŞ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤àõÊ8ÈïäÏŞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÈïäÏŞ1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ü­àª8ÉïäÏŞ1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¨ºÅïÿÿÿÿÿ8ÉïäÏŞ1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÉïäÏŞ1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(““›ö8ÉïäÏŞ1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ŸÀ‚¤üÿÿÿÿ8ÊïäÏŞ1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÊïäÏŞ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(±íÆÙÿÿÿÿÿ8ÊïäÏŞ1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(óàÃ®ıÿÿÿÿ8ÊïäÏŞ1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ËïäÏŞ1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(àÿË8ËïäÏŞ1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(‚ùÜ÷8ËïäÏŞ1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ËïäÏŞ1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ÿ¦â¯ıÿÿÿÿ8ÌïäÏŞ1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ÑÑĞøùÿÿÿÿ8ÌïäÏŞ1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÌïäÏŞ1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Ôà£Îøÿÿÿÿ8ÎïäÏŞ1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(–Şò½øÿÿÿÿ8ĞïäÏŞ1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ĞïäÏŞ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¾­úøÿÿÿÿ8ÑïäÏŞ1
+F
+java:S1481B")Remove this unused "sum1" local variable.(ñş™˜8ÑïäÏŞ1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ÑïäÏŞ1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÑïäÏŞ1
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8ÒïäÏŞ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÒïäÏŞ1
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8ÒïäÏŞ1

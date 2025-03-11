@@ -92,7 +92,9 @@ public class FPThread {
         };
 
         Thread evenThread = new Thread(printEven);
+        evenThread.setName("EvenThread");
         Thread oddThread = new Thread(printOdd);
+        oddThread.setName("oddThread");
         evenThread.start();
         oddThread.start();
     }

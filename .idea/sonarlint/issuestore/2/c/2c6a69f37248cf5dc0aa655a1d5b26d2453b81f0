@@ -1,0 +1,54 @@
+
+]
+java:S1192q"GDefine a constant instead of duplicating this literal "female" 3 times.(ßóØ©
+N
+java:S3655+"8Call "maxSalary.isPresent()" before accessing the value.(üƒñ§
+R
+java:S3655*"7Call "Optional#isPresent()" before accessing the value.(«ÄÁûÿÿÿÿ
+V
+java:S36552"@Call "maxActiveEmployee.isPresent()" before accessing the value.(‡©ÆÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¬áõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ©·¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼„îşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Íºõšûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£“ğêüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùö£öşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ıë“‘
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ïÁÖøÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(å´úÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ñ÷Ï…şÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(üƒñ§
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÊŠı¯ûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ß“øÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(‡©ÆÀ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(îª‰œúÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(Èì÷ßüÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ššÄ‘
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Á˜êëÿÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(“²´‘
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(‹¡ÇÛ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(î˜°Üşÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ıå‘
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(º»îä
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.( ï³Õ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(›ğçÊùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(Ş¨©´
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Ï–ÿıÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(¸ÖèÓúÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(±«ïúúÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'java.util.function.BinaryOperator'.(º÷ùÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ

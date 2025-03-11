@@ -1,0 +1,59 @@
+
+h	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½äÅ±İ1
+h	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾äÅ±İ1
+Q
+java:S3740e"/Provide the parametrized type for this generic.(Œ¨ã…øÿÿÿÿ8¿äÅ±İ1
+|
+java:S3008"ZRename this field "CHARACTER_RANGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šã¶ıÿÿÿÿ8ÌåÅ±İ1
+[
+java:S1854">Remove this useless assignment to local variable "ppInternal".(´Ë†˜8ÔåÅ±İ1
+L
+java:S1481"/Remove this unused "ppInternal" local variable.(´Ë†˜8ÕåÅ±İ1
+]	java:S125"<This block of commented-out lines of code should be removed.(†‚İÔşÿÿÿÿ8ÖåÅ±İ1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Šû¢8÷åÅ±İ1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8şåÅ±İ1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8ÿåÅ±İ1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8‚æÅ±İ1
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8‡æÅ±İ1
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(·Ú…Óûÿÿÿÿ8ŒæÅ±İ1
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8æÅ±İ1
+d
+java:S1126‚"AReplace this if-then-else statement by a single return statement.(ÎÜÇ’üÿÿÿÿ8“æÅ±İ1
+T
+java:S1751„"6Remove this "return" statement or make it conditional.(§¼Éç8”æÅ±İ1
+H
+java:S1197"*Move the array designators [] to the type.(Òë•ñ8—æÅ±İ1
+d
+java:S1126¤"AReplace this if-then-else statement by a single return statement.(‰×òñûÿÿÿÿ8£æÅ±İ1
+T
+java:S1751¦"6Remove this "return" statement or make it conditional.(§¼Éç8¤æÅ±İ1
+Q
+java:S2201®".The return value of "replaceAll" must be used.(‡é™Ãşÿÿÿÿ8¥æÅ±İ1
+k
+java:S5361®"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‡é™Ãşÿÿÿÿ8§æÅ±İ1
+U	java:S106µ"9Replace this use of System.out or System.err by a logger.(Ôÿª}8¨æÅ±İ1
+^	java:S125º"<This block of commented-out lines of code should be removed.(â›Ñ¾ıÿÿÿÿ8©æÅ±İ1
+V	java:S106Í"9Replace this use of System.out or System.err by a logger.(¼ ÛÛ8«æÅ±İ1
+u
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(³éöÆúÿÿÿÿ8¬æÅ±İ1
+Y	java:S125Ò"<This block of commented-out lines of code should be removed.(ìµë¼8­æÅ±İ1
+|
+java:S2142Ş"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8´æÅ±İ1
+[	java:S106â"9Replace this use of System.out or System.err by a logger.(çâé¤ÿÿÿÿÿ8¸æÅ±İ1
+S
+java:S2446ä"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8¹æÅ±İ1
+|
+java:S2142ï"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ºæÅ±İ1
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(Ï¨šüÿÿÿÿ8ºæÅ±İ1
+S
+java:S2446õ"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8»æÅ±İ1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(ùí8ÀæÅ±İ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ÃæÅ±İ1
+U	java:S106•"9Replace this use of System.out or System.err by a logger.(œ™À8ÄæÅ±İ1
+Y
+java:S1128"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8ÇæÅ±İ1
+b
+java:S1128"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8ÇæÅ±İ1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8ÇæÅ±İ1

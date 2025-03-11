@@ -5,6 +5,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.function.Function;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -21,11 +22,12 @@ public class PPInternal {
 //        q5Method();
 //        System.out.println(factorial(5));
 //        System.out.println(isAnagram("ant", "tan"));
-//        System.out.println(isPalindrome("9An8a."));
+        System.out.println(isPalindrome("9An8a."));
 //        charFrequency();
 //        q10Method();
 //        ppInternal.evenOddPrinter();
-        removeItems();
+//        removeItems();
+//        substring();
     }
 
     //Q1 reverse the words in space separated string
@@ -42,6 +44,7 @@ public class PPInternal {
     static void q2Method(ArrayList<Integer> arr, Integer t){
         List<Integer> temp = new ArrayList<>();
         Integer size = arr.size();
+//        Arrays.sort();
 
         for (int i = size-t; i < size ; i++) {
             temp.add(arr.get(i));
@@ -91,7 +94,8 @@ public class PPInternal {
     static void q5Method(){
         String str = "anstansaia";
 
-        Map<String, Long> duplcateChars = Arrays.stream(str.split("")).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        Map<String, Long> duplcateChars = Arrays.stream(str.split(""))
+                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
         System.out.println(duplcateChars);
 
         // highest occurred str
@@ -133,18 +137,19 @@ public class PPInternal {
     }
 
     public static boolean isAnagramCounting(String string1, String string2) {
-        if (string1.length() != string2.length()) {
+        if (string1.length() != string2.length())
             return false;
-        }
-        int count[] = new int[CHARACTER_RANGE];
+
+        int[] count = new int[256];
+
         for (int i = 0; i < string1.length(); i++) {
             count[string1.charAt(i)]++;
             count[string2.charAt(i)]--;
         }
-        for (int i = 0; i < CHARACTER_RANGE; i++) {
-            if (count[i] != 0) {
+
+        for (int i = 0; i <256; i++) {
+            if (count[i] != 0)
                 return false;
-            }
         }
         return true;
     }
@@ -156,6 +161,8 @@ public class PPInternal {
         List<String> strArr = Arrays.asList(str.split("")).stream()
                 .filter(e -> e.matches("^[A-Za-z]"))
                 .collect(Collectors.toList());
+
+        String s = str.replaceAll("^[A-Za-z]", "");
 
 
         for (int i = 0; i < strArr.size(); i++) {
@@ -177,6 +184,7 @@ public class PPInternal {
                         Collectors.counting()));
 
         System.out.println(charFreq);
+//        Predicate
     }
 
     //Q10: Input => array [-12, 11, -13, -5, 6, -7, 5, -3, -6]
@@ -258,7 +266,7 @@ public class PPInternal {
 
     // "ACB-100-10001-lASD-20-4420Y-150" & list[10,20,30,50,100] = "ACB-10001-lASD-4420Y-150"
     static void removeItems(){
-        String s1 = "ACB-100-10001-lASD-20-4420Y-150-50";
+        String s1 = "ACB";
         List<Integer> numbers = Arrays.asList(10,20,30,50,100);
         List<String> sNumbers = numbers.stream().map(String::valueOf).collect(Collectors.toList());
 
@@ -268,4 +276,9 @@ public class PPInternal {
         System.out.println(result);
     }
 
+    static void substring(){
+        String s1 = "ACB-100-10001-lASD-20-4420Y-150-50";
+        String s2 = s1.substring(s1.length() - 8);
+        System.out.println(s2);
+    }
 }
